@@ -2,7 +2,7 @@
 
 - Randomly initialize weights and biases
 - Feedfoward with sigmoid activation
-*Calculate loss function
-*Backpropagate by calculating loss for each layer and update weights and bias, with number number of epochs provided
+- Calculate loss function
+- Backpropagate by calculating loss for each layer and update weights and bias, with number number of epochs provided
 
-*Test on xor example
+- Test on xor example
