@@ -1,6 +1,6 @@
 ## A Simple 2 Layer Multi-Layer Perceptron using Numpy only
 
-# Steps
+###### Steps
 
 - Randomly initialize weights and biases
 - Feedfoward with sigmoid activation
